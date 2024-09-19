@@ -121,3 +121,6 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+Meu prompt foi desenvolvido com base nas regras apresentadas mas com instruções para coletar as informações em um texto e entender o que as informações significam de forma que ele aceita outros tipos de entrada. Foi implementada uma quarta regra de negócio que leva em consideração os resultados procurados. Alem do plano de exercicios, ele busca tambem explicar ao usuario o motivo do treino.
+
+[Meu resultado final](/prompt/v1.md)
